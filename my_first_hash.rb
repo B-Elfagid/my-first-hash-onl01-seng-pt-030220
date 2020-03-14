@@ -28,6 +28,8 @@ end
 
  shipping_manifest = [2]
  
+ end
+ 
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
