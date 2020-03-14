@@ -1,9 +1,9 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 my_hash = {
-    "my_name" => "betty",
-    "my_height" => "9 feet 10 inches",
-    "my_weight" => "300 Kilograms",
+    "my_name" => "Betty",
+    "my_age" => "30",
+    "my_weight" => "70kg",
   }
 
 end
@@ -34,7 +34,6 @@ def retrieval
 
 end
 
- 
  
 def adding
   shipping_manifest = {
