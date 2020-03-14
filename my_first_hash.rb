@@ -26,7 +26,7 @@ def retrieval
 
 end
 
- shipping_manifest = [2]
+ shipping_manifest = ["2"]
  
  end
  
